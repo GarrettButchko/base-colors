@@ -3,3 +3,7 @@ xcuserdata/
 .DS_Store
 .swiftpm/xcode/package.xcworkspace/xcuserdata/
 .swiftpm/xcode/xcuserdata/
+
+build/
+.swiftpm/
+
